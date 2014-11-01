@@ -25,5 +25,6 @@ void main()
 		q = p - 1;
 		p = q;
 	}
+       printf("version 1.0\n");
 
 }
